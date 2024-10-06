@@ -7,12 +7,12 @@ theme:
   logo: assets/ISIAU_logo-light.png
   favicon: assets/favicon.png
   features:
-    - #navigation.instant
+    - navigation.instant
     - navigation.top
     - search.suggest
     - search.highlight
     - navigation.indexes
-    - #navigation.prune
+    - navigation.prune
     - #navigation.expand
   palette:
     # Palette toggle for light mode
@@ -60,6 +60,7 @@ extra_javascript:
   - javascripts/extra.js
 plugins:
   - search
+  - awesome-pages
 markdown_extensions:
   - admonition
   - pymdownx.details

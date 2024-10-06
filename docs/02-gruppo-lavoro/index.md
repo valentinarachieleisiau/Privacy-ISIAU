@@ -1,7 +1,7 @@
 ---
 title: Team Privacy
-hide:
-  - toc
+#hide:
+ # - toc
 ---
 ## Gruppo di Lavoro per il supporto al Responsabile Protezione Dati
 
