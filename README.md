@@ -4,7 +4,7 @@
 
  Il repository è stato creato durante il mese di febbraio 2024 per la gestione e pubblicazione di tutta la documentazione relativa alla Privacy di ISIA Urbino.
  
- Il nuovo sistema di creazione e aggiornamento dei contenuti delle Guide si basa su [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/). Adatto ad un contesto accademico, è open-source, versatile, veloce, gratuito, e consente anche il pieno possesso dei dati da parte di ISIA Urbino.
+ Il nuovo sistema di creazione e aggiornamento dei contenuti si basa su [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/). Adatto ad un contesto accademico, è open-source, versatile, veloce, gratuito, e consente anche il pieno possesso dei dati da parte di ISIA Urbino.
 
  [Nelle parole](https://squidfunk.github.io/mkdocs-material/) di [John Maeda](https://it.wikipedia.org/wiki/John_Maeda),
  
