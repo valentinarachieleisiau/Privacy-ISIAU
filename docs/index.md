@@ -2,13 +2,11 @@
 title: Responsabile della Protezione dei Dati (DPO)
 hide:
   - toc
-  - feedback
 ---
-## Responsabile della Protezione dei Dati (DPO)
 
 È stato designato Responsabile della Protezione dei Dati (DPO - Data Protection Officer) dell'Istituto Superiore per le Industrie Artistiche di Urbino, l'Ing. Mauro Raimondi.
 
-### Compiti
+Compiti
 
 I compiti del Responsabile della Protezione dei Dati personali (DPO) attengono all'insieme dei trattamenti di dati effettuati dall'Istituto Superiore per le Industrie Artistiche di Urbino e sono:
 
