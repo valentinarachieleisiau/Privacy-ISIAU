@@ -1,0 +1,70 @@
+site_name: Privacy ISIA U
+site_url: https://privacy.isiaurbino.net/
+copyright: Copyright &copy; 2024 - ISIA Urbino
+theme:
+  name: material
+  language: it
+  logo: assets/ISIAU_logo-light.png
+  favicon: assets/favicon.png
+  features:
+    - #navigation.instant
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - navigation.indexes
+    - #navigation.prune
+    - #navigation.expand
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: black
+      toggle:
+        icon: material/brightness-3
+        name: Modalità notte
+     # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: white
+      toggle:
+        icon: material/brightness-7
+        name: Modalità giorno
+extra:
+  generator: false
+  analytics:
+    provider: google
+    property: G-CQ6908H944
+    feedback:
+      title: Questa pagina ti è stata utile?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: Sì, mi è stata utile
+          data: 1
+          note: >-
+            Grazie per il tuo feedback, ci aiuterà a migliorare!
+        - icon: material/emoticon-sad-outline
+          name: Ci sono margini di miglioramento
+          data: 0
+          note: >- 
+            Grazie per il tuo feedback! Aiutaci a migliorare questa pagina scrivendo <a href="mailto:guide@isiaurbino.net" rel="noopener">alla nostra email</a>.
+  consent:
+    title: Cookie consent
+    description: >- 
+      Questo sito non esegue alcun tipo di profilazione, né richiede alcun dato personale. I suoi cookie hanno il solo scopo di aggiornare il conteggio visiste e, se possibile, ripristinare le vostre preferenze di lettura.     
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - https://code.jquery.com/jquery-3.7.1.min.js
+  - javascripts/extra.js
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
